@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 Flutter plugin for accepting incoming links - App/Deep Links (Android), Universal Links and Custom URL schemes (iOS).
                        DESC
-  s.homepage         = 'https://github.com/faizan-19/uni_links5-0.5.4.git'
+  s.homepage         = 'https://github.com/faizan-19/uni_links5-0.5.4'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Avioli' => 'avioli@gmail.com' }
   s.source           = { :path => '.' }
