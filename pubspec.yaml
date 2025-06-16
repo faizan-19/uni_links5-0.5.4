@@ -25,5 +25,6 @@ flutter:
         pluginClass: UniLinksPlugin
       ios:
         pluginClass: UniLinksPlugin
+        podspecPath: ios/uni_links5.podspec
       web:
         default_package: uni_links_web
